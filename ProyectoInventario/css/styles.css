@@ -1,0 +1,19 @@
+
+main{  
+    background-color: rgb(154, 223, 223);
+    
+}
+
+
+table{
+    width: 50%;
+    border: 1px solid;
+}
+
+th,td{
+    text-align: left;
+    padding: 16px;
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
